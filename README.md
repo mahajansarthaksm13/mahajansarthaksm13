@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahajansarthaksm13&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=39FF88&text_color=C9D1D9&ring_color=39FF88&rank_icon=github" width="49%" alt="GitHub stats for mahajansarthaksm13" />
   <img src="https://streak-stats.demolab.com?user=mahajansarthaksm13&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakNum=39FF88&currStreakLabel=39FF88&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&stroke=30363D" width="49%" alt="GitHub contribution streak for mahajansarthaksm13" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahajansarthaksm13&bg_color=0D1117&color=C9D1D9&line=39FF88&point=A78BFA&area=true&area_color=39FF88&title_color=39FF88&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph for mahajansarthaksm13" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahajansarthaksm13&theme=github_dark" width="100%" alt="Contribution activity graph for mahajansarthaksm13" />
 </div>
 
 <br>
