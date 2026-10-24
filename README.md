@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0F3D2E,100:39FF88&height=230&section=header&text=Sarthak%20Mahajan&fontSize=58&fontColor=E6FFF2&fontAlignY=36&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%C2%B7%20MIT%20Academy%20of%20Engineering%2C%20Pune&descSize=17&descAlignY=56&animation=fadeIn" width="100%" alt="Sarthak Mahajan, B.Tech CSE (AI and ML) student at MIT Academy of Engineering, Pune" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0F3D2E,100:39FF88&height=230&section=header&text=Sarthak%20Mahajan&fontSize=58&fontColor=E6FFF2&fontAlignY=36&desc=B.Tech%20CSE%20AI%20and%20ML%20at%20MIT%20Academy%20of%20Engineering%20Pune&descSize=17&descAlignY=56&animation=fadeIn" width="100%" alt="Sarthak Mahajan, B.Tech CSE (AI and ML) student at MIT Academy of Engineering, Pune" />
 
 <a href="https://github.com/mahajansarthaksm13">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=620&lines=Building+high-throughput+LLM+inference;Shipping+AI+that+protects+real+people;Smart+India+Hackathon+regular;Models+in%2C+products+out." alt="Typing animation: Building high-throughput LLM inference, Shipping AI that protects real people, Smart India Hackathon regular, Models in, products out." />
